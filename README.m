@@ -20,7 +20,7 @@ The collection includes transparent PNG images covering a variety of subjects an
 
 ## Explore More PNG Images
 
-Visit **[ClikPNG](https://www.clikpng.com/)** to explore the growing collection of free PNG images and transparent graphics.
+Visit **[ClikPNG](https://www.clikpng.com/) to explore the growing collection of free PNG images and transparent graphics.
 
 ## About This Repository
 
